@@ -1,5 +1,7 @@
 # My_portfolio
 
+-->Code with purpose. Build with passion. Grow without limits.
+
 Hi, I'm Nilesh Singh — a passionate  Full-Stack Developer with a love for building elegant, responsive, and user-focused web applications.
 This portfolio showcases some of my best work, built using modern technologies like HTML, CSS, JavaScript, Tailwind CSS, and more.
 
