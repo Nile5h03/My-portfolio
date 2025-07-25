@@ -5,10 +5,17 @@
 Hi, I'm Nilesh Singh — a passionate  Full-Stack Developer with a love for building elegant, responsive, and user-focused web applications.
 This portfolio showcases some of my best work, built using modern technologies like HTML, CSS, JavaScript, Tailwind CSS, and more.
 
-🔧 Tech Stack:
+
+
+🔧 Tech Stack:-
+
+
 HTML | CSS | JavaScript | Tailwind CSS |  Git | GitHub
 
-✨ Features:
+
+
+✨ Features:-
+
 
 Responsive design with Tailwind CSS.
 
@@ -21,5 +28,8 @@ Smooth scroll animations.
 Integrated contact via email or social platforms.
 
 
-📫 Get in Touch:
+
+📫 Get in Touch:-
+
+
 Feel free to explore, connect, and reach out through the contact section!
