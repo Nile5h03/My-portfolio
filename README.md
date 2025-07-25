@@ -10,15 +10,16 @@ HTML | CSS | JavaScript | Tailwind CSS |  Git | GitHub
 
 ✨ Features:
 
-Responsive design with Tailwind CSS
+Responsive design with Tailwind CSS.
 
-Dark mode toggle
+Dark mode toggle when required can be added in this project.
 
-Smooth scroll animations
+Smooth scroll animations.
 
-3D tilt effects for interactivity
+3D tilt effects for interactivity.
 
-Integrated contact form using Google Forms
+Integrated contact via email or social platforms.
+
 
 📫 Get in Touch:
 Feel free to explore, connect, and reach out through the contact section!
