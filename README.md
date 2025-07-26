@@ -1,35 +1,41 @@
 # My_portfolio
 
--->Code with purpose. Build with passion. Grow without limits.
+> **Code with purpose. Build with passion. Grow without limits.**
 
-Hi, I'm Nilesh Singh — a passionate  Full-Stack Developer with a love for building elegant, responsive, and user-focused web applications.
-This portfolio showcases some of my best work, built using modern technologies like HTML, CSS, JavaScript, Tailwind CSS, and more.
+Welcome to my personal developer portfolio! I'm **Nilesh Singh**, a passionate **Full-Stack Developer** who loves crafting elegant, responsive, and user-focused web applications. This portfolio is a reflection of my journey, skills, and projects, built using modern web technologies.
 
+## 🔍 About
 
+This portfolio showcases some of my best work using:
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Tailwind CSS**
+- **Git & GitHub**
 
-🔧 Tech Stack:-
+## ✨ Features
 
+- ⚡ **Responsive Design** with Tailwind CSS
+- 🌙 Optional **Dark Mode** toggle (can be added as a future enhancement)
+- 🎯 **Smooth Scroll Animations**
+- 🌀 **3D Tilt Effects** for enhanced interactivity
+- 📩 **Contact Integration** via email and social platforms
 
-HTML | CSS | JavaScript | Tailwind CSS |  Git | GitHub
+## 📸 Screenshots
 
+_Add screenshots of your portfolio here if available (optional but recommended)._
 
+## 📫 Get in Touch
 
-✨ Features:-
+Explore, connect, and reach out through the [Contact](#) section of the portfolio. I’m always open to new opportunities and collaborations!
 
+---
 
-Responsive design with Tailwind CSS.
+### 🚀 Run Locally
 
-Dark mode toggle when required can be added in this project.
+To run this project locally:
 
-Smooth scroll animations.
-
-3D tilt effects for interactivity.
-
-Integrated contact via email or social platforms.
-
-
-
-📫 Get in Touch:-
-
-
-Feel free to explore, connect, and reach out through the contact section!
+```bash
+git clone https://github.com/your-username/my_portfolio.git
+cd my_portfolio
+open index.html
